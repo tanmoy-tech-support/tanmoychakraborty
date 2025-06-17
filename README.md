@@ -4,7 +4,7 @@
 🛠️ I build real-world support tools and troubleshooters in shell and Python.
 
 ## 🧩 Projects
-- [Linux Support Toolkitt](https://github.com/yourusername/linux-support-toolkitt) — Commands, scripts, cheatsheets for tech support
+- [Linux Support Toolkitt](https://github.com/tanmoy-tech-support/Linux-support-toolkitt.git) — Commands, scripts, cheatsheets for tech support
 -  data tools, prompt engineering examples coming soon!
 
 ## 🚀 Skills
